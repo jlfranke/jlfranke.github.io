@@ -1,0 +1,18 @@
+html{ background-image: linear-gradient(to bottom right, #ff00ff, #00ffff); background-repeat: no-repeat; height: auto; margin: 0; min-height: 100%; }
+body{ background: #e6e6e6; box-shadow: 7px 7px 7px #666666; }
+body, h1, h2, h3, h4, h5, h6, p{ font-family: Baskerville Old Face, Times New Roman; }
+h1, h3{ color: #ff00ff; font-weight: bold; }
+body.container{ height: auto; max-width: 90%; margin: 15px auto; min-height: 800px; padding: 15px; }
+#header{ display: inline-block; width: 100%; }
+#myTab, #skills, #education, #work_experience, #projects, #sample_code{ margin-top: 20px; } 
+#profile_img{ display: inline-block; margin-right: 20px; max-width: 170px; vertical-align: top; }
+#introduction{ display: inline-block; width: 80%; }
+.seperator{ font-weight: bold; padding: 0 10px; }
+#skills li{ list-style: none; }
+.hand_pointer_img{ height: auto; margin-right: 5px; max-height: 25px; max-width: 25px; width: auto; }
+#school_info #school{ font-weight: bold; }
+#school_info #degree{ text-decoration: underline; }
+#school_info #GPA{ margin-left: 10px; }
+.job_name, .project_name{ font-weight: bold; }
+.job_title{ text-decoration: underline; }
+.job_location, .job_length, .project_time{ margin-left: 10px; }
