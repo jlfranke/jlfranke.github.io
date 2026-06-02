@@ -4,7 +4,7 @@ import ProfilePicture from "./ProfilePicture";
 
 function Welcome() {
   return (
-    <div className="h-dvh text-center m-5">
+    <div className="text-center m-5">
       <ProfilePicture area="welcome" />
       <h1 className="text-6xl mb-5">Jessica Franke</h1>
       <Link

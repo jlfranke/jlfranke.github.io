@@ -1,6 +1,6 @@
 function DataLogic() {
   return (
-    <div className="mb-8">
+    <div>
       <div className="flex items-center justify-between">
         <h1 className="font-bold text-xl">DataLogic Software Inc</h1>
         <p>Harlingen, Texas</p>
@@ -16,20 +16,21 @@ function DataLogic() {
 
       <ul className="list-disc mt-2.5 ml-5">
         <li>
-          Built several of DataLogic’s single page web applications utilizing
-          Angular with Redux, Typescript, Javascript, NgRx, Bootstrap, Kendo UI,
-          Asp.NET, C#, EntityFramework and SQL
+          Built several of DataLogic’s Healthcare based single page web
+          applications utilizing Angular with Redux, Typescript, Javascript,
+          NgRx, Bootstrap, Kendo UI, Asp.NET, C#, EntityFramework, SQL and SSRS
+          for reports.
         </li>
         <li>
-          Designed new features as well as maintained and updated existing
-          features on the UI, APIs and database.
+          Designed new features as well as maintained, updated and optimized
+          existing features on the UI, APIs and database.
         </li>
         <li>
           Reviewed features and provided recommendations for enhancements for a
           better user experience.
         </li>
         <li>
-          Led teams of varying developers on several projects, coordinating and
+          Led teams of up to 10 developers on several projects, coordinating and
           assigning tasks to fellow developers.
         </li>
         <li>
@@ -37,8 +38,8 @@ function DataLogic() {
           written using best practices for optimization and security.
         </li>
         <li>
-          Trained and mentored new developers joining the team to get them
-          introduced to the applications, team dynamics and helped them get
+          Trained and mentored new and junior developers joining the team to get
+          them introduced to the applications, team dynamics and helped them get
           started.
         </li>
         <li>

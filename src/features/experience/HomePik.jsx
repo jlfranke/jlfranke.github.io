@@ -1,6 +1,6 @@
 function HomePik() {
   return (
-    <div className="mb-8">
+    <div>
       <div className="flex items-center justify-between">
         <h1 className="font-bold text-xl">HomePik Inc / Nice Idea Media</h1>
         <p>New York, New York</p>

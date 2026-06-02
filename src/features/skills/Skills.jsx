@@ -3,7 +3,7 @@ import TechincalSkills from "./TechincalSkills";
 
 function Skills() {
   return (
-    <div className="m-5">
+    <div className="grid gap-10 m-5">
       <TechincalSkills />
       <OtherSkills />
     </div>
