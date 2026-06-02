@@ -5,10 +5,13 @@ import Profile from "./features/profile/Profile";
 import Education from "./features/education/Education";
 import Skills from "./features/skills/Skills";
 import Experience from "./features/experience/Experience";
+import PageNotFound from "./ui/PageNotFound";
+import Projects from "./features/projects/Projects";
 
 const router = createBrowserRouter([
   {
     element: <AppLayout />,
+    errorElement: <PageNotFound />,
     children: [
       {
         path: "/",
@@ -29,6 +32,10 @@ const router = createBrowserRouter([
       {
         path: "/experience",
         element: <Experience />,
+      },
+      {
+        path: "/projects",
+        element: <Projects />,
       },
     ],
   },

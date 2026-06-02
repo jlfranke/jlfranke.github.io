@@ -1,9 +1,11 @@
+import ProfessionalDevelopment from "./ProfessionalDevelopment";
 import University from "./University";
 
 function Education() {
   return (
-    <div className="m-5">
+    <div className="grid gap-10 m-5">
       <University />
+      <ProfessionalDevelopment />
     </div>
   );
 }

@@ -15,6 +15,7 @@ function TechincalSkills() {
             <li>JQuery</li>
             <li>Redux</li>
             <li>NgRx</li>
+            <li>Next.js</li>
             <li>Bootstrap</li>
             <li>Tailwind</li>
             <li>Kendo UI</li>
@@ -24,6 +25,7 @@ function TechincalSkills() {
             <li>C#</li>
             <li>.NET</li>
             <li>EntityFramework</li>
+            <li>SSRS</li>
             <li>Vite</li>
             <li>Azure CI/CD</li>
           </ul>
@@ -33,6 +35,7 @@ function TechincalSkills() {
           <h2 className="font-bold">Databases:</h2>
           <ul className="list-disc ml-5">
             <li>Relational databases including MySQL and SQL</li>
+            <li>Supabase</li>
           </ul>
         </div>
 
