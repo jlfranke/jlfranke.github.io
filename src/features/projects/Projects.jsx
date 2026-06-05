@@ -1,5 +1,6 @@
 import WildOasisHotel from "./WildOasisHotel";
 import WildOasisWebsite from "./WildOasisWebsite";
+import Wordle from "./Wordle";
 
 function Projects() {
   return (
@@ -10,6 +11,7 @@ function Projects() {
       <div className="grid gap-10">
         <WildOasisHotel />
         <WildOasisWebsite />
+        <Wordle />
       </div>
     </div>
   );
